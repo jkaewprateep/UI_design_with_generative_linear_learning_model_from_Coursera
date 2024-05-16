@@ -55,6 +55,13 @@ UI design with generative linear learning model from Coursera
     <b> NLP image to text application </b> </br>
 </p>
 
+## NLP image object detection
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/image_region_detection.png"> </br>
+    <b> NLP image object detection </b> </br>
+</p>
+
 ## Voice assistance
 
 <p align="center" width="100%">
