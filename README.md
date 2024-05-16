@@ -12,6 +12,8 @@ UI design with generative linear learning model from Coursera
     <b> Pictures from the Internet </b> </br>
 </p>
 
+🧸💬 There are several benefits of creating web application responses with AI process feedback system, communication between AI services and web applications can be client-side and replacing the target URL similar URL is dangerous with secured sources and secured communications. </br>
+
 ## Glossary application design
 
 <p align="center" width="100%">
