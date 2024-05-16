@@ -15,9 +15,11 @@ UI design with generative linear learning model from Coursera
 🧸💬 There are several benefits of creating web application responses with AI process feedback system, communication between AI services and web applications can be client-side, and replacing the target URL similar URL is dangerous with secured sources and secured communications. </br>
 🐑💬 ➰ One question is with secured messages communication how can we find references from exchanging messages for time expiring, session number, and similar patterns? These fields need to separate from the AI prediction process but they are method parameters. We can do it by application routes and services. </br>
 🐐💬 Encrypted messages do not create incremental patterns of output results but do not input additional running numbers as the input because they cannot reveal the message information but they can create some bug similar to the wrong reference running number. </br>
-🦭💬 That is because of its meaning it is not a required field value if missing of correct value from the input it will use one from the preference message and to create a change of the message may effects applications or specific method. It can be optional but the option should return the same value as they input. </br>
+🦭💬 That is because of its meaning it is not a required field value if missing of correct value from the input it will use one from the preference message and to create a change of the message may affect applications or specific methods. It can be optional but the option should return the same value as they input. </br>
 
 ## Glossary application design
+
+🧸💬 There are several pages of interaction navigation by user attention action, information is columna and record details have visual indexes to compare of information detail and visualization at the same time. </br>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/Glossary%20application%20design.png"> </br>
