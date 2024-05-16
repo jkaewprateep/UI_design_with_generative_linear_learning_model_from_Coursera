@@ -32,6 +32,12 @@ Text mirror or indexes - 🐑💬 ➰ a simple trick for name as text search by 
 * NOD - DON
 * ING - GNI
 
+Summarize of category number - 🐑💬 ➰ a simple trick for multiple criteria in small to medium group members, unique group number assigned remain unique with regular and some unique number.
+* 5 - 6 : 11 ~ 🧸💬 Divide by 2 or divide by 3 has remains you need to use the lookup table.
+* 7 - 9 : 16
+* 13 - 21 : 34 ~ 🧸💬 Divide by 3 has remain you need to use a lookup table.
+* 13 - 5 : 18
+
 ## LLM Chat application
 
 <p align="center" width="100%">
