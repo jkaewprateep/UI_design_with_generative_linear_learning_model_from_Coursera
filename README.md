@@ -34,6 +34,38 @@ UI design with generative linear learning model from Coursera
     <b> LLM Chat application </b> </br>
 </p>
 
+### Simple request-response
+
+```
+from sentiment_analysis import sentiment_analyzer
+import json
+import requests
+
+response = sentiment_analyzer("🧸💬 There are 10 principles of DekDee ... ")
+
+url = "https://sn-watson-sentiment-bert.labs.skills.network/v1/watson.runtime.nlp.v1/NlpService/SentimentPredict"
+headers = {"grpc-metadata-mm-model-id": "sentiment_aggregated-bert-workflow_lang_multi_stock"}
+myobj = { "raw_document": { "text": "as987da-6s2d aweadsa" } }
+response = requests.post(url, json = myobj, headers=headers)
+print(response.status_code)
+
+myobj = { "raw_document": { "text": "Testing this application for error handling" } }
+response = requests.post(url, json = myobj, headers=headers)
+print(response.status_code)
+print(response)
+```
+
+### Sample response
+
+```
+>>
+{'emotionPredictions': [{'emotion': {'anger': 0.010162572, 'disgust': 0.51078576, 'fear': 0.025222138, 
+'joy': 0.77610445, 'sadness': 0.061564375}, 'target': '', 
+'emotionMentions': [{'span': {'begin': 0, 'end': 40, 'text': '🧸💬 There are 10 principles of DekDee ...'}, 
+'emotion': {'anger': 0.010162572, 'disgust': 0.51078576, 'fear': 0.025222138, 'joy': 0.77610445, 'sadness': 0.061564375}}]}],
+'producerId': {'name': 'Ensemble Aggregated Emotion Workflow', 'version': '0.0.1'}}
+```
+
 ## Logicals assignment application design
 
 <p align="center" width="100%">
