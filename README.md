@@ -21,6 +21,8 @@ UI design with generative linear learning model from Coursera
 
 🧸💬 There are several pages of interaction navigation by user attention action, information is columna and record details have visual indexes to compare of information detail and visualization at the same time. </br>
 🐑💬 ➰ Application navigation, table record details, cascade information dataset communication with the database, communication can work on full message mode and partial message communication mode by update reference and update of method data acquisition. </br>
+👧💬 🎈 Price with picture tag, there are many default variables, classes, and define variables when a picture tag has a special ability for use in the search query that does not change when information is updated. </br>
+
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/Glossary%20application%20design.png"> </br>
