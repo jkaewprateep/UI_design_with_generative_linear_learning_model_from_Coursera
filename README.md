@@ -29,6 +29,9 @@ UI design with generative linear learning model from Coursera
     <b> Glossary application design </b> </br>
 </p>
 
+🐑💬 ➰ Why do they need saving prices when overall buying prices are the same⁉️ </br>
+🐐💬 They had the number of values returned and we saved more with the same amount of money. </br>
+
 ## Customer search application design
 
 <p align="center" width="100%">
