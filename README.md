@@ -26,6 +26,12 @@ UI design with generative linear learning model from Coursera
     <b> Customer search application design </b> </br>
 </p>
 
+Text mirror or indexes - 🐑💬 ➰ a simple trick for name as text search by smaller and larger group members.
+* PIK - KIP
+* ICE - ECI
+* NOD - DON
+* ING - GNI
+
 ## LLM Chat application
 
 <p align="center" width="100%">
