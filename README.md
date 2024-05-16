@@ -27,10 +27,10 @@ UI design with generative linear learning model from Coursera
 </p>
 
 Text mirror or indexes - 🐑💬 ➰ a simple trick for name as text search by smaller and larger group members.
-* PIK - KIP
+* PIK - KIP ~ 🧸💬 K is unique number character
 * ICE - ECI
 * NOD - DON
-* ING - GNI
+* ING - GNI ~ 🧸💬 G is moderate character
 
 Summarize of category number - 🐑💬 ➰ a simple trick for multiple criteria in small to medium group members, unique group number assigned remain unique with regular and some unique number.
 * 5 - 6 : 11 ~ 🧸💬 Divide by 2 or divide by 3 has remains you need to use the lookup table.
