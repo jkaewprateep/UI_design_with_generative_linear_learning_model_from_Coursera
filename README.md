@@ -11,3 +11,25 @@ UI design with generative linear learning model from Coursera
     <b> Front-End Developer | AI Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
     <b> Pictures from the Internet </b> </br>
 </p>
+
+## Glossary application design
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/Glossary%20application%20design.png"> </br>
+    <b> Glossary application design </b> </br>
+</p>
+
+## Customer search application design
+
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/Customer%20serach%20application%20design.png"> </br>
+    <b> Customer search application design </b> </br>
+</p>
+
+## LLM Chat application
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/LLM%20-%20chat%201.png">
+    <img width="40%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/LLM%20-%20chat%202.png"> </br>
+    <b> LLM Chat application </b> </br>
+</p>
