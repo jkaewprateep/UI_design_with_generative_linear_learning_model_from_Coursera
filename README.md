@@ -12,7 +12,8 @@ UI design with generative linear learning model from Coursera
     <b> Pictures from the Internet </b> </br>
 </p>
 
-🧸💬 There are several benefits of creating web application responses with AI process feedback system, communication between AI services and web applications can be client-side and replacing the target URL similar URL is dangerous with secured sources and secured communications. </br>
+🧸💬 There are several benefits of creating web application responses with AI process feedback system, communication between AI services and web applications can be client-side, and replacing the target URL similar URL is dangerous with secured sources and secured communications. </br>
+🐑💬 ➰ One question is with secured messages communication how can we find references from exchanging messages for time expiring, session number, and similar patterns? These fields need to separate from the AI prediction process but they are method parameters. We can do it by application routes and services. </br>
 
 ## Glossary application design
 
