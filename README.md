@@ -8,6 +8,6 @@ UI design with generative linear learning model from Coursera
     <img width="34%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/Frontend%20instructor.png">
     <img width="34%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/AI%20instructor.png">
     <img width="12.77%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/09.jpg"> </br>
-    <b> Javascripts Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
+    <b> Front-End Developer | AI Developer | My favorite teacher 💃( 👩‍🏫 ) </b> </br>
     <b> Pictures from the Internet </b> </br>
 </p>
