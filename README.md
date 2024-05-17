@@ -121,6 +121,7 @@ print(response)
 </p>
 
 🦭💬 There are visualization and simulation tools if you want to study further in the fields they are not only visualization of programming logics but simulation, experiment and report with software values and response codes and values from real factory machines. </br>
+🐣💬 Advantage of logical program visualization is they are event listener and event capture application they are build with passive ```error-handling``` or sometime we call ```passive IDE``` </br>
 
 ## NLP emotion detection application
 
