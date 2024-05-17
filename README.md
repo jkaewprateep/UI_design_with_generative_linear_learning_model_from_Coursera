@@ -340,8 +340,17 @@ def handle_prompt():
 ## Sign-up form application design
 
 🧸💬 Sample of sign-up form application design. </br>
+🧸💬 Supporting is required to perform a task but emergency requires </br>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/signup%20form%20application%20design.png"> </br>
     <b> Sign-up form application design </b> </br>
+</p>
+
+---
+
+<p align="center" width="100%">
+    <img width="30%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/custom_dataset.png">
+    <img width="30%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/custom_dataset_2.png"> </br>
+    <b> 🥺💬 รับจ้างเขียน functions </b> </br>
 </p>
