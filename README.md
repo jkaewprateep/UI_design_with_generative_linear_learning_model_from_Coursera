@@ -112,6 +112,9 @@ print(response)
 
 ## Logicals assignment application design
 
+🧸💬 Programming is not the hardest path, ask your administrator for a designer application or IDE application they may have a visualization logical assignment program as in the example, and that is really nice to have for multi-task administrators. </br>
+🐑💬 ➰ And the tools are super easy to use with visualization print-out or you can build your own specific tools just by creating a service request. <br> 
+
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/Logical%20assignment%20application%20design.png"> </br>
     <b> Logicals assignment application design </b> </br>
