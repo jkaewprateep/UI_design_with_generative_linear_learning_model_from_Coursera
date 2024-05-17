@@ -67,6 +67,9 @@ Statistics expression can use LLM information in speech by using Graph visualiza
     <b> LLM Chat application </b> </br>
 </p>
 
+🧸💬 Sample of application AI chatbots, AI engine using OpenAPI interface, and multiple models included ChatGPT. I remember one of the movie I liked when a girl try to create of an AI break room by reverse logic or it is called a revered logic path that go though forward and reverse with reversed results. </br>
+🧸💬 This is an example but it is not a reversed path it is an understanding of its inputs, most of the exercises if text sentiments and they acquire some information from our input directly with the expecting of pattern standard, it goes to another session with different text sentence patterns. </br>
+
 ### Simple request-response
 
 ```
