@@ -253,6 +253,8 @@ def speech_to_text_route():
 
 ## Voice assistance
 
+🧸💬 Voice conversation media create or speech synthesis for voice communications and speech recognition by ```OpenAPI``` interfaces. </br>
+
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/Voice%20assistance.png"> </br>
     <b> Voice assistance </b> </br>
