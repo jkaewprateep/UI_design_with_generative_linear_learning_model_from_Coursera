@@ -144,6 +144,8 @@ print(response)
 🧸💬 Tokenizer is creating or text wrapped or some programmers understand it is a phaser or word and sentence phaser, the example is the iteration of the tokenizer by the input text to perform of word tokenizer into an array and summing into history when you can apply NLP response for specific text input. </br>
 🐑💬 ➰ How can you explain the text output expression from an image, that is because she likes the character and the character speaking in action method or word instant. </br>
 🪼💬 Think it again I should through him with the Stone celebus. </br>
+</br>
+🥺💬 If you like about encoding-decoding, signal transformation, error-correction, signal extraction, word sentence information extraction, radio and waves information extraction, and similar pattern recognition for pattern learning adaptation the transformer is one network that you need to know. </br>
 
 ```
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
