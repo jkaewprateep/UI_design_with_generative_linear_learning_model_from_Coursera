@@ -211,6 +211,10 @@ while True:
 
 ## NLP image to text application
 
+🧸💬 It is a Unicorn or Pegasus once the god of messenger sent out Physcopompus once Hermes did this job he could fly with the Pegasus wing and fast transportation, the legend about Medusa and many legendary. The Pikaju is a famous monster from another story that is unique with the strength of instant, the instant of action, the instant of talking, and the instant of justice over of all rules. </br>
+🦭💬 Electronics The power of Columb does not create a potential effect to target until it is discharging and they are trying to create short-duration charging with long-duration discharging for the smart devices, radio is counted as a smart device because one battery creates a lot of value transportation. </br>
+🦭💬 Long-duration charging and short-time discharge are stimulating, these kinds of mechanics are used in electric guns for protection, nighttime lighting, or engine starters. </br>
+
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/NLP%20image%20to%20text.png"> </br>
     <b> NLP image to text application </b> </br>
