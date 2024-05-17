@@ -125,7 +125,10 @@ print(response)
 
 ## NLP emotion detection application
 
-🧸💬 Text sentiment is a common task and you can find some examples with ```OpenAI``` integrated or ```TensorFlow```vocabulary from this Girhub. </br>
+🧸💬 Text sentiment is a common task and you can find some examples with ```OpenAI``` integrated or ```TensorFlow```vocabulary from this Github. </br>
+[University of Michigan - Applied Text Mining in Python - notes]( https://github.com/jkaewprateep/lessonfrom_Applied_Text_Mining_in_Python ) </br>
+[University of Michigan - Introduction to Data Science in Python - notes]( https://github.com/jkaewprateep/lessonfrom_Introduction_to_Data_Science_in_Python ) </br>
+[Simple_encode_decode]( https://github.com/jkaewprateep/Simple_encode_decode ) </br>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/NLP%20-%20emotion%20detection.png"> </br>
