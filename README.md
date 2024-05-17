@@ -136,6 +136,8 @@ print(response)
 </p>
 
 🦭💬 There is an emotional alignment in different axises, now they are trying to represent as 2D or 3D graphical image with different of composition values to help with emotion detection values return. You can be sad when you less happy and you can anger with joy for ```excited``` state and we call the state diagrams. </br>
+🥺💬 What is when people say I am angry with joy but I feel a bit of disgust, and yes there is more than one side of it but we need to contain it in the states diagram. <//br>
+🧸💬 It's called shy!!! </br>
 
 ### Transformer
 ```
