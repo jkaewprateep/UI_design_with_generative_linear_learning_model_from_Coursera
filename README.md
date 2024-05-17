@@ -73,6 +73,8 @@ Statistics expression can use LLM information in speech by using Graph visualiza
 
 ### Simple request-response
 
+🦭💬 Sample request and response, by using standard API ```json``` and ```requests``` and import of our library ```sentiment_analysis``` from the exercise in the course. </br>
+
 ```
 from sentiment_analysis import sentiment_analyzer
 import json
