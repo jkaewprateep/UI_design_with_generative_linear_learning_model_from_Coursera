@@ -246,6 +246,7 @@ def speech_to_text_route():
 
 🧸💬 A simple image region detection with multiple layers compared to research and study, there are updating research and studies to discover but we need some support. </br>
 🦭💬 The abilities of image object detection are not only fast and accuracy but object identification, working area and white space detection, acceleration, and many features such as do harm or no harm. </br>
+🐑💬 ➰ Similar to text sentiment object detection and white space detection are simple work needed to perform for AI motion learning. </br>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/image_region_detection.png"> </br>
