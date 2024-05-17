@@ -120,10 +120,12 @@ print(response)
     <b> Logicals assignment application design </b> </br>
 </p>
 
-🦭💬 There are visualization and simulation tools if you want to study further in the fields they are not only visualization of programming logics but simulation, experiment and report with software values and response codes and values from real factory machines. </br>
-🐣💬 Advantage of logical program visualization is they are event listener and event capture application they are build with passive ```error-handling``` or sometime we call ```passive IDE``` </br>
+🦭💬 There are visualization and simulation tools if you want to study further in the fields they are not only visualization of programming logics but simulation, experiment, and report with software values and response codes and values from real factory machines. </br>
+🐣💬 Advantage of logical program visualization is they are event listener and event capture applications they are built with passive ```error-handling``` or sometimes we call ```passive IDE``` </br>
 
 ## NLP emotion detection application
+
+🧸💬 Text sentiment is a common task and you can find some examples with ```OpenAI``` integrated or ```TensorFlow```vocabulary from this Girhub. </br>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/NLP%20-%20emotion%20detection.png"> </br>
