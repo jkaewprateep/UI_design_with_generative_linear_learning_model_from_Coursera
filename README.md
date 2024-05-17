@@ -97,7 +97,7 @@ print(response)
 ### Sample response
 
 🦭💬 Sample response message as ```json``` or ```json.dump()``` in Python. </br>
-🐐💬 You can create text messages and string responses and there are many expectations. One in ```C#.net``` and ```C++``` create ```struct`` or ```property``` to have the output message with same pattern and formation or using ```LINQ``` or ```dictionary``` </br>
+🐐💬 You can create text messages and string responses and there are many expectations. One in ```C#.net``` and ```C++``` create ```struct``` or ```property``` to have the output message with same pattern and formation or using ```LINQ``` or ```dictionary``` </br>
 🐐💬 In java and Python they have ```json``` and ```beautiful soap``` library. Some programmer had a question why they are not using string or return as json objects when the web application handles of the message. Yes you can do it but they are also not aligned of the same space tabs or format you require when they had the same parameters input and expected output and these are not affected by de-serialize library or ```x-path```. </br>
 🐑💬 ➰ In some applications strictly use ```json.dump()``` because they will not to handles of the message format and all created messages are a priority. They treat as a priority message when verification is true and some communication hub notification happen when debugging program never found it. The best system can had a problem with a tiny small character. </br>
 
