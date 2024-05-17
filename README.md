@@ -262,6 +262,8 @@ def speech_to_text_route():
 
 ### App.js
 
+🧸💬 Application model, App.js and security ```CORS``` application for source web application. </br>
+
 ```
 from flask import Flask, render_template            # newly added
 from flask_cors import CORS                         # newly added
@@ -293,6 +295,8 @@ CORS(app);                                          # newly added
 
 ### App.js - routes banana
 
+🧸💬 App.js routes - target routes application. </br>
+
 ```
 @app.route('/bananas')
 def bananas():
@@ -300,6 +304,8 @@ def bananas():
 ```
 
 ### App.js - routes chatbots
+
+🧸💬 App.js routes - tokenizer and output response generate from training model. </br>
 
 ```
 @app.route('/chatbot', methods=['POST'])
@@ -329,6 +335,8 @@ def handle_prompt():
 ```
 
 ## Sign-up form application design
+
+🧸💬 Sample of sign-up form application design. </br>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/signup%20form%20application%20design.png"> </br>
