@@ -35,6 +35,7 @@ UI design with generative linear learning model from Coursera
 ## Customer search application design
 
 🧸💬 Visual or synthesis should display the time to complete to help the user desire to activate the function, it is not performance or statistics reason as primary but the ability to control of user and the user can design of action to perform or visualize see from graphic items display. </br>
+👧💬 🎈 There is statistics information we can note and create memos using application and paper notes and there is information related that requires extraction or process by time delays or iterations of methods to synthesize with multiple known and unknown parameters or our brain recognitions. The application allows you to recognize users from both sides and allows you to notes and create new information and relationships you have found. </br>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/Customer%20serach%20application%20design.png"> </br>
