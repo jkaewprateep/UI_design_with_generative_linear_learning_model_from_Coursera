@@ -256,7 +256,7 @@ def speech_to_text_route():
 ## Voice assistance
 
 🧸💬 Voice conversation media create or speech synthesis for voice communications and speech recognition by ```OpenAPI``` interfaces. </br>
-🦭💬 It is ready with ```Watson``` and ```OpenAPI``` support for speech recognition tasks but some example the writer needs to help with your understanding of the fundamentals of the machine learning by illustrating of the lesson by a line of codes and examples in TensorFlow, Python, Pytorch and etc and he forgot Keras ... </br>
+🦭💬 It is ready with ```Watson``` and ```OpenAPI``` support for speech recognition tasks but some example the writer needs to help with your understanding of the fundamentals of the machine learning by illustrating of the lesson by a line of codes and examples in TensorFlow, Python, Pytorch, C#, C++, Matlab and etc and he forgot Keras ... </br>
 
 <p align="center" width="100%">
     <img width="60%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/Voice%20assistance.png"> </br>
