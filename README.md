@@ -96,6 +96,8 @@ print(response)
 
 ### Sample response
 
+🦭💬 Sample response message as ```json``` or ```json.dump()``` in Python. </br>
+
 ```
 >>
 {'emotionPredictions': [{'emotion': {'anger': 0.010162572, 'disgust': 0.51078576, 'fear': 0.025222138, 
