@@ -120,6 +120,8 @@ print(response)
     <b> Logicals assignment application design </b> </br>
 </p>
 
+🦭💬 There are visualization and simulation tools if you want to study further in the fields they are not only visualization of programming logics but simulation, experiment and report with software values and response codes and values from real factory machines. </br>
+
 ## NLP emotion detection application
 
 <p align="center" width="100%">
