@@ -69,6 +69,7 @@ Statistics expression can use LLM information in speech by using Graph visualiza
 
 🧸💬 Sample of application AI chatbots, AI engine using OpenAPI interface, and multiple models included ChatGPT. I remember one of the movie I liked when a girl try to create of an AI break room by reverse logic or it is called a revered logic path that go though forward and reverse with reversed results. </br>
 🧸💬 This is an example but it is not a reversed path it is an understanding of its inputs, most of the exercises if text sentiments and they acquire some information from our input directly with the expecting of pattern standard, it goes to another session with different text sentence patterns. </br>
+👧💬 🎈 That is because of pre-trained values model is working but you need some learning and verification steps, somebody explains it is trying to learning a name and its meaning when sometimes it is difficult and we humans perform better. It should not required to learning in multiple steps as in example but it is understanding or different of robots and human even they advanced in many phases than human and leaps advance than human in one day there are a gap for human for work with AI.
 
 ### Simple request-response
 
