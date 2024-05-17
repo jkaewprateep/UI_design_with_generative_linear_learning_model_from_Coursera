@@ -58,6 +58,8 @@ Statistics expression can use LLM information in speech by using Graph visualiza
 
 ## LLM Chat application
 
+💃( 👩‍🏫 )💬 Linear learning model, if humans and scripts are the best selection but to serve with best services we allowed AI as tools to help in selected specific tasks. Have AI bots abilities to perform single complex of tasks such as prompt generation from statistics in database and backend systems or system queue statistics and campaigns statistics. Prompts can be voice, documents such as billings and notification messages by email, SMS, telephony information, re-use by integrated systems, and printout documents. <//br> 
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/LLM%20-%20chat%201.png">
     <img width="40%" src="https://github.com/jkaewprateep/UI_design_with_generative_linear_learning_model_from_Coursera/blob/main/LLM%20-%20chat%202.png"> </br>
