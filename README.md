@@ -222,6 +222,8 @@ while True:
 
 ### Server
 
+🧸💬 Server application js for ```OpenAPI``` </br>
+
 ```
 @app.route('/speech-to-text', methods=['POST'])
 def speech_to_text_route():
